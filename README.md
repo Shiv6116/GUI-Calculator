@@ -18,7 +18,7 @@ It consist of 8 function
 
 Explain Code:
 
-![gui calculator](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/a20df0ad-4aad-4594-8f6b-eadb4f43d0ff)
+![explain](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/861e3f1d-4f1d-4fca-b30b-67c52181a6ef)
 
 
 
