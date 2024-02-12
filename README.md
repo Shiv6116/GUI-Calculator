@@ -1,6 +1,4 @@
 # Python-GUI-Calculator
-Simple Python GUI calculator
-
 
 Used PyQt library 
 
