@@ -1,4 +1,7 @@
 # Python-GUI-Calculator
+Simple Python GUI calculator
+
+
 Used PyQt library 
 
 It consist of 8 function 
