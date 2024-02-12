@@ -12,7 +12,8 @@ It consist of 8 function
 7) and manupluate is used in calculations which uses BODMAS rules (i.e it first solves division --> multilplication --> addition --> substraction mathmatical rules)
 8) main function which creates a object of class and runs the app
 
-![Capture](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/4aea6e4f-e231-4c3b-9f37-c82728039198)
+
+![cal](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/01bb8083-1191-401a-acb9-221b5c96beac)
 
 
 Explain Code:
