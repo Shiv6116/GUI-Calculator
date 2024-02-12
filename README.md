@@ -13,11 +13,9 @@ It consist of 8 function
 8) main function which creates a object of class and runs the app
 
 
-![image](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/f0eff269-3507-439e-ba6b-5146f172f26e)
 
 Explain Code:
 
-![image](https://github.com/Shiv6116/GUI-Calculator/assets/128344968/092a8332-5c5c-4a83-a99e-0de9fb67d6f9)
 
 
 Code by Shivam Pujari
