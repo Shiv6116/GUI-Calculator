@@ -23,6 +23,4 @@ Explain Code:
 
 
 
-Code by Shivam Pujari
 
-< /Happy Coding >
